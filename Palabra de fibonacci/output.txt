@@ -1,0 +1,7 @@
+a es la palabra nº: 1
+b es la palabra nº: 2
+aaa no es una palabra de Fibonacci
+bb no es una palabra de Fibonacci
+bababbab es la palabra nº: 6
+a es la palabra nº: 1
+ba no es una palabra de Fibonacci
